@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu GitHub! S2
 
-<a href="https://www.linkedin.com/in/gustavo-pinto-577194249/" target="_blank"><img align="left" alt="Gustavo Pinto Fonseca | LinkedIn" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
+<a href="https://www.linkedin.com/in/gustavo-pinto-fonseca-577194249/" target="_blank"><img align="left" alt="Gustavo Pinto Fonseca | LinkedIn" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
 <br>
 <br>
 
