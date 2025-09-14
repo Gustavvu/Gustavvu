@@ -9,8 +9,7 @@
   - Técnico em Administração [IFMA]
 
 ### 📚 Cursando:
-- Graduação em Análise e Desenvolvimento de Sistemas [Estácio de Sá]
-- Curso Desenvolvimento FullStack [Senai]
+- Graduação em Análise e Desenvolvimento de Sistemas [UniNassau]
 - JavaScript [Curso em Vídeo]
 
 ### 😃 Meus hoobies:
